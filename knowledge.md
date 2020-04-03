@@ -50,6 +50,7 @@ layout: default
 -  [Microsoft announced](https://news.microsoft.com/en-xm/2019/11/12/microsoft-announces-ai-centre-of-excellence-at-adipec-2019-to-accelerate-innovation-across-energy-sector/) that in early 2020 it will open an AI Centre of Excellence for Energy in the United Arab Emirates – a global first for the company – to empower organisations in the industry in accelerating digital transformation, equipping the workforce with AI skills, as well as collaborating on coalitions to address sustainability and safety challenges.
 - [Protect Earth](https://protect.earth) is a list of links divided by categories and tags and compiled to a website (a bit like this repo, but better :smile:), the source is [here on Github](https://github.com/philsturgeon/awesome-earth)
 - [En-roads scenario simulation](https://en-roads.climateinteractive.org/scenario.html) helps to improve decision-maker understanding of the dynamics of the climate-energy-land-economic system, particularly focusing on policy-makers, citizens, educators, and business leaders [FAQ](https://docs.climateinteractive.org/projects/en-roads/en/latest/guide/general_faqs.html)
+- [NREL ReOpt Lite Manual] (https://reopt.nrel.gov/tool/REopt%20Lite%20Web%20Tool%20User%20Manual.pdf#page=8) Online Manual of ReOpt Lite, tool for economic viability evaluation of PV, wind, battery storage at a site.
 
 ## Energy consumption
 
